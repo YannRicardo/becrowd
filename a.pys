@@ -1,0 +1,4 @@
+nome = yann
+valor = 2
+resultado = valor**(len(nome))
+print(resultado)
