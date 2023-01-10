@@ -1,4 +1,4 @@
 nome = yann
-valor = 2
-resultado = valor**(len(nome))
+nalor = 2
+resultado = nalor**(len(nome))
 print(resultado)
